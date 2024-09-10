@@ -15,160 +15,70 @@
 <hr>
 
 
-<p align="center">
 
-  <a href=",,,,">
-    <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FVajiraTech%2FVAJIRA-MD-NEW&count_bg=%2379C83D&title_bg=%23555555&icon=gitpod.svg&icon_color=%23E7E7E7&title=Views&edge_flat=false" alt="Views"/></a>
+<p align="center">
+  <a aria-label="Join our chats" href="https://whatsapp.com/channel/0029VaiqumK3mFY9IkCerO3H" target="_blank">
+    <img alt="whatsapp" src="https://img.shields.io/badge/Join Group-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
+  </a>
+  <a aria-label="Secktor is free to use" href="https://github.com/SamPandey001/Secktor-Md/blob/main/LICENCE" target="_blank">
+    <img alt="License: GPL-3" src="https://badges.frapsoft.com/os/gpl/gpl.png?v=103)](https://opensource.org/licenses/GPL-3.0/" target="_blank" />
+  </a>
+
+</p>
+
+---
+
+<p align="center"><img src="https://profile-counter.glitch.me/{MADUSHANSL}/count.svg" alt="MADUSHANSL :: Visitor's Count" /></p>
+
   
-  </a>
-  <a href="https://github.com/VajiraTech/VAJIRA-MD-NEW/fork">
-    <img src="https://img.shields.io/github/forks/VajiraTech/VAJIRA-MD-NEW?label=Fork&style=social">
-    
-  </a>
-  <a href="https://github.com/VajiraTech/VAJIRA-MD-NEW/stargazers">
-    <img src="https://img.shields.io/github/stars/VajiraTech/VAJIRA-MD-NEW?style=social">
-  </a>
-</p>
-
-<p align="center">
-  <a href="https://github.com/VajiraTech/VAJIRA-MD-NEW">
-    <img src="https://img.shields.io/github/repo-size/VajiraTech/VAJIRA-MD-NEW?color=purple&label=Repo%20Size&style=plastic">
-
-  </a>
-  <a href="https://github.com/VajiraTech/VAJIRA-MD-NEW">
-    <img src="https://img.shields.io/github/license/VajiraTech/VAJIRA-MD-NEW?color=purple&label=License&style=plastic">
-
-  </a>
-  <a href="https://github.com/VajiraTech/VAJIRA-MD-NEW">
-    <img src="https://img.shields.io/github/languages/top/VajiraTech/VAJIRA-MD-NEW?color=purple&label=Javascript&style=plastic">
-
-  </a>
-  <a href="https://github.com/VajiraTech/VAJIRA-MD-NEW">
-    <img src="https://img.shields.io/static/v1?label=Author&message=Vajira%20Rathnayake&color=purple&style=plastic">
-
-  </a>
-  </p>
- <p align="center">
-  <a href="https://github.com/VajiraTech/VAJIRA-MD-NEW">
-    <img src="https://img.shields.io/badge/OUR%20%20%20TEAM-Technical%20Cybers%20(TC)-purple&style=plastic">
-
-  </a>
-</p>
-
-## 💡 FOLLOW OUR CHANAL
-
-<a href="https://whatsapp.com/channel/0029VahMZasD8SE5GRwzqn3Z"><img src="https://img.shields.io/badge/Join%20Our%20WhatsApp%20Channel-blue" alt="📎 Join Our WhatsApp Channel" width="350"></a>
-
-<br>
-
-<div align="center">
- 
-  <h1>👇 DEPLOY NOW 👇</h1>
-</div>
-
-<br>
-
-## 🎀 STEP 01 -  Fork The Repo
-
-<a href="https://github.com/VajiraTech/VAJIRA-MD-NEW/fork"><img src="https://img.shields.io/badge/Fork%20Repo-blue" alt="FORK VAJIRA MD REPO" width="150"></a>
-</br>
-<img src="https://i.imgur.com/dBaSKWF.gif" height="90" width="100%">
-<br>
-
-## 🎀 STEP 02 -  Get Session
-
-<a href="https://vajirapair-3ea4809cee5a.herokuapp.com/"><img src="https://img.shields.io/badge/QR%20OR%20PAIR%20CODE-blue" alt="GET SESSION" width="200"></a>
-
-`Not come session id use a vpn and try again`
-
-<br>
-<br>
-## 🎀 STEP 03 -  Deployment Methods
-
-<a href="https://vajiratech.github.io/VAJIRA-DEPLOY/QUEEN-IZUMI-WEB-main/projects/deployment.html"><img src="https://img.shields.io/badge/DEPLOYMENT%20METHODS-green" alt="DEPLOY PLATFORMS" width="300"></a>
-<br>
+ ## 🇱🇰 **New bot, latest version 🎉 [new reposity]()**
 
 
-<div align="center">
- 
+---
+
+![repo views](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FprabathLK%2FPRABATH_MD&count_bg=%2379C83D&title_bg=%23555555&icon=gitpod.svg&icon_color=%23E7E7E7&title=Views&edge_flat=false)
+
+![forks](https://img.shields.io/github/forks/prabathLK/PRABATH_MD?label=Forks&style=social)
+
+![stars](https://img.shields.io/github/stars/prabathLK/PRABATH_MD?style=social)
+
+
+  
+
+ ## DEPLOYMENT METHODS
+
+  
+
+●. **[SCAN QR CODE SERVER-1](https://prabath-md-qr-web-prabath.koyeb.app/)**
+
+●. **[SCAN QR CODE SERVER-2](https://replit.com/@Amilaprabath/PRABATH-MDQR?output%20only=1&lite=1#index.js)**
+
+  
+..........................................................
+
+●. **Get a Mongodb uri from [Clever-Cloud](https://api.clever-cloud.com/v2/session/login).**
+
+●. **Get a Mongodb uri from [railway.app](https://railway.app).**
+
+●.  **Click [FORK](https://github.com/prabathLK/PRABATH-MD/fork)**
+
+---
+
+[![Deploy to Koyeb](https://www.koyeb.com/static/images/deploy/button.svg)](https://app.koyeb.com/apps/deploy?type=git&repository=github.com/prabathLK/PRABATH_MD&branch=main&env[SESSION_ID]&env[OWNER_NUMBER]=94762280384&env[MONGODB_URI]&&env[OWNER_NAME]=prabath&env[KOYEB_API]&env[AUTO_READ_STATUS]=false&env[ANTI_BAD_WORD]=fuck,huththa,pakaya&env[ALWAYS_ONLINE]=true&env[PREFIX]=.&env[ALIVE_IMG]=https://telegra.ph/file/0ff686352c51b20af8231.jpg&env[ALIVE_MSJ]=IAmOnline&env[AUTO_RESTART]=true&env[SUDO]=94762280384&env[READ_MESSAGE]=false&env[DISABLE_PM]=false&env[DL_SIZE]=60&env[WORK_TYPE]=public&env[THEME]=PRABATH-MD&env[PACK_INFO]=prabath;madebyprabathmd&name=prabath-md&env[KOYEB_NAME]=prabath-md&env[ANTILINK_VALUES]=chat.whatsapp.com&env[PORT]=8000)
+
+[![Deploy on Railway](https://railway.app/button.svg)](https://railway.app/template/NO4jvb?referralCode=iM43z3)
+
+[![Deploy on heroku](https://www.herokucdn.com/deploy/button.svg)](https://dashboard.heroku.com/new?button-url=https://github.com/PrabathLK/PRABATH_MD&template=https://github.com/PrabathLK/PRABATH_MD.git)
+
+  
+
+ ## [Deploy on VPS or PC.](https://github.com/prabathLK/PRABATH_MD/blob/main/deploy-on-vps.md)
+
  
 
 
+ ---
 
+## License
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-## Workflow Deploy Code 👇
-
-
-```
-name: Node.js CI
-
-on:
-  push:
-    branches:
-      - main
-  pull_request:
-    branches:
-      - main
-
-jobs:
-  build:
-
-    runs-on: ubuntu-latest
-
-    strategy:
-      matrix:
-        node-version: [20.x]
-
-    steps:
-    - name: Checkout repository
-      uses: actions/checkout@v3
-
-    - name: Set up Node.js
-      uses: actions/setup-node@v3
-      with:
-        node-version: ${{ matrix.node-version }}
-
-    - name: Install dependencies
-      run: npm install
-
-    - name: Start application
-      run: npm start
-```
+The prabath-md is made available under the [GPL-3 license](https://github.com/prabathLK/PRABATH-MD/blob/main/LICENCE).
