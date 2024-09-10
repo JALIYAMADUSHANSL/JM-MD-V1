@@ -11,8 +11,8 @@
 <hr>
 
 <p align="center">
-  <a href="https://youtu.be/@ManulOfficialTech">
-    <img alt="MANU-MD" height="300" src="...">
+  <a href="https://youtube.com/@madushanboy?si=oEjnYPZzpZRuK6gF">
+    <img alt="MANU-MD" height="300" src="https://telegra.ph/file/66b3e13ae0dbae476b869.jpg">
 
     
 
